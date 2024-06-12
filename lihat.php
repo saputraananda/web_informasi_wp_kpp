@@ -88,7 +88,7 @@
                 echo "</tr>";
             }
         } else {
-            echo "<tr><td colspan='6'>Tidak ada hasil yang ditemukan</td></tr>";
+            echo "<tr><td colspan='6'><center>Tidak ada hasil yang ditemukan</center></td></tr>";
         }
 
         echo '</tbody></table>';
@@ -138,7 +138,7 @@
                 echo "</tr>";
             }
         } else {
-            echo "<tr><td colspan='6'>Tidak ada hasil yang ditemukan</td></tr>";
+            echo "<tr><td colspan='6'><center>Tidak ada hasil yang ditemukan</center></td></tr>";
         }
 
         echo '</tbody></table>';
@@ -188,7 +188,7 @@
                 echo "</tr>";
             }
         } else {
-            echo "<tr><td colspan='6'>Tidak ada hasil yang ditemukan</td></tr>";
+            echo "<tr><td colspan='6'><center>Tidak ada hasil yang ditemukan</center></td></tr>";
         }
 
         echo '</tbody></table>';
@@ -241,7 +241,7 @@
                 echo "</tr>";
             }
         } else {
-            echo "<tr><td colspan='7'>Tidak ada hasil yang ditemukan</td></tr>";
+            echo "<tr><td colspan='7'><center>Tidak ada hasil yang ditemukan</center></td></tr>";
         }
 
         echo '</tbody></table>';
@@ -295,7 +295,7 @@
                 echo "</tr>";
             }
         } else {
-            echo "<tr><td colspan='8'>Tidak ada hasil yang ditemukan</td></tr>";
+            echo "<tr><td colspan='8'><center>Tidak ada hasil yang ditemukan</center></td></tr>";
         }
 
         echo '</tbody></table>';
